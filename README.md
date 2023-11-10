@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olanrewaju Oyekanmi</h1>
-<h3 align="center">A passionate and junior frontend developer from Nigeria.</h3>
+<h3 align="center">A passionate junior frontend developer from Nigeria.</h3>
 <img align="right" alt="coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1400/1*K_B9fk4OLex0SizoDAUC3w.jpeg"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanreoyekanmi&label=Profile%20views&color=0e75b6&style=flat" alt="lanreoyekanmi" /> </p>
