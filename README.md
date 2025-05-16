@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ola_olanrewaju_" target="blank"><img src="https://img.shields.io/twitter/follow/ola_olanrewaju_?logo=twitter&style=for-the-badge" alt="ola_olanrewaju_" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://lanreoyekanmi.github.io/portfolio/)
+- 🔭 I’m currently working on [Personal Portfolio](https://olanrewajuoyekanmi.netlify.app/)
 
 - 🌱 I’m currently learning **Javascript and Python**
 
