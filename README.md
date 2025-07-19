@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **available front end project**
 
-- 👨‍💻 All of my projects are available at [https://lanreoyekanmi.github.io/portfolio/](https://lanreoyekanmi.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://lanreoyekanmi.github.io/portfolio/](https://olanrewajuoyekanmi.netlify.app/)
 
 - 📫 How to reach me **lanrewajuoyekanmi@gmail.com**
 
